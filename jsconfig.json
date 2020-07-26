@@ -1,0 +1,4 @@
+//this file tells vscode to treat this as javascript rather than typescript project
+{
+  "exclude": ["node_modules"]
+}
