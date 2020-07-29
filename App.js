@@ -7,9 +7,12 @@ import SignInPage from "./app/screens/SignInPage";
 import InitialLanguageSelection from "./app/screens/InitialLanguageSelection";
 
 import AppUserRoleSelection from "./app/screens/AppUserRoleSelection";
+import ApplicantProfileDetails from "./app/screens/ApplicantProfileDetails";
+import RecruiterProfileDetails from "./app/screens/RecruiterProfileDetails";
+
 export default function App() {
   return (
-    <AppUserRoleSelection />
+    <RecruiterProfileDetails />
     /*
     <View style={styles.container}>
       <Text>Hi,This is OpenJobApp Team.</Text>
