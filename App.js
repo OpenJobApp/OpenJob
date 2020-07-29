@@ -9,10 +9,11 @@ import InitialLanguageSelection from "./app/screens/InitialLanguageSelection";
 import AppUserRoleSelection from "./app/screens/AppUserRoleSelection";
 import ApplicantProfileDetails from "./app/screens/ApplicantProfileDetails";
 import RecruiterProfileDetails from "./app/screens/RecruiterProfileDetails";
+import ApplicantHelpSection from "./app/screens/ApplicantHelpSection";
 
 export default function App() {
   return (
-    <RecruiterProfileDetails />
+    <ApplicantHelpSection />
     /*
     <View style={styles.container}>
       <Text>Hi,This is OpenJobApp Team.</Text>
