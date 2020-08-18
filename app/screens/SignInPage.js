@@ -16,8 +16,8 @@ function SignInPage(props) {
   return (
     <SafeAreaView>
       <Text style={styles.pageTitle}>Sign In</Text>
-      <TextInput>Enter Username</TextInput>
-      <TextInput>Enter Password</TextInput>
+      <TextInput> </TextInput>
+      <TextInput> </TextInput>
       <Button title={"Submit"}></Button>
     </SafeAreaView>
   );
