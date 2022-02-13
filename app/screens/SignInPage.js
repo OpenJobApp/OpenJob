@@ -15,10 +15,12 @@ import colors from "../config/colors";
 function SignInPage(props) {
   return (
     <SafeAreaView>
-      <Text style={styles.pageTitle}>Sign In</Text>
-      <TextInput> </TextInput>
-      <TextInput> </TextInput>
-      <Button title={"Submit"}></Button>
+      <Text style={styles.pageTitle}>SignUp</Text>
+
+      <Button title={"Facebook Button"}></Button>
+      <Button title={"Instagram Button"}></Button>
+      <Button title={"Phone Button"}></Button>
+      <Text style={styles.signInText}>Sign In</Text>
     </SafeAreaView>
   );
 }

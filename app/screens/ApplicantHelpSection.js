@@ -16,7 +16,7 @@ import ApplicantProfileDetails from "./ApplicantProfileDetails";
 function ApplicantHelpSection(props) {
   return (
     <SafeAreaView>
-      <Text style={styles.pageTitle}>FAQ and Help for Applicant</Text>
+      <Text style={styles.pageTitle}>Applicants Help Section </Text>
     </SafeAreaView>
   );
 }

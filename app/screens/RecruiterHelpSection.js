@@ -38,4 +38,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default RecruitertHelpSection;
+export default RecruiterHelpSection;
